@@ -1,0 +1,6 @@
+
+/.vscode/**
+!/.vscode/launch.json
+
+*.exe
+power-throttling-list.txt
